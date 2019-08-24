@@ -1,4 +1,4 @@
-# cloneFoursquare
+# Clone Foursquare
 
 Search Foursquare api
 
