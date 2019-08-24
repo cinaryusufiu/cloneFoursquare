@@ -8,4 +8,4 @@ Search Foursquare api
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cinaryusufiu/cloneFoursquare/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cinaryusufiu/cloneFoursquare/blob/master/README.md) file for details
